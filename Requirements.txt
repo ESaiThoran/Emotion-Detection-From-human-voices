@@ -1,0 +1,6 @@
+
+Python
+
+Jupyter Notebook(.ipnyb)
+
+OS, Glob, Librosa, Numpy, Sklearn, Tensorflow, Keras, Pydub, Tkinter, Sounddevice, PIL 
